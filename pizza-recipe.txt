@@ -1,0 +1,5 @@
+1. Call pizza place
+2. Drive to pizza place
+3. pay and pick up pizza
+4. drive home
+5. eat
